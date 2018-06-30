@@ -1,0 +1,1 @@
+Woot, MonsterGen! CNNs, SOMs, and GANs!
